@@ -63,7 +63,7 @@ model=""
 #
 # Version and md5sum
 #
-FIRMWARE_URL="https://raw.githubusercontent.com/niceboygithub/AqaraM1SM2fw/main"
+FIRMWARE_URL="https://ghfast.top/https://raw.githubusercontent.com/niceboygithub/AqaraM1SM2fw/main"
 VERSION="4.5.20_0033.0652"
 COOR_MD5SUM="b7f25a07e3cd0b207c8aa37898dd008c"
 KERNEL_MD5SUM="d9adbad066f8b64537bb568280250854"
